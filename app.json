@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RNnodeMongo",
+    "slug": "RNnodeMongo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
